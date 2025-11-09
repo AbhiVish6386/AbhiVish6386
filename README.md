@@ -113,6 +113,3 @@ In the future, I aim to design **next-gen AI frameworks**, **offline copilots**,
 💬 Let’s talk about AI, RAG, or creative offline systems.
 
 ---
-
-> “Innovation isn’t about connecting to the cloud — it’s about creating intelligence that runs right beside you.”  
-> — *Abhishek Kumar Vishwakarma*
